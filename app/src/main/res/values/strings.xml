@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Maybe">Maybe?</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="four">4</string>
+    <string name="enterName">Please Enter Your Name:</string>
+    <string name="howManyChecks">How many ✓\'s?</string>
+    <string name="haveRadio">Do you have a radio?</string>
+    <string name="spellCat">How do you spell cat?</string>
+    <string name="hintCat">Hint: cat</string>
+    <string name="haveEnjoyed">Have you enjoyed this quiz?</string>
+    <string name="Score">What\'s my score?</string>
+</resources>
